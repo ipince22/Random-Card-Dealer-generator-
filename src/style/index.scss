@@ -13,7 +13,7 @@ body {
   padding-top: 180px;
   border-radius: 5px;
   border: 1px solid black;
-  /position: relative;
+  position: relative;
   &::before {
     position: absolute;
     top: 20px;
