@@ -1,4 +1,14 @@
-# Hello World with Vanilla JS
+# Random Card Dealer (generator)
+In this project you will learn how to change your website styles during the runtime using VanillaJS (plain normal js).
+
+Instructions
+Create and algorithm that randomly builds a card on every refresh:
+
+Every time the website refreshes a new random card needs to show
+The card must have one of the possible suites: Hearts, Spades, Clubs and Diamons.
+The card value must be one of the following: 1 to 10, King, Queen, Jack or Ace (no joker).
+
+(https://ucarecdn.com/7cd14b33-dd69-4680-aaf3-ab16afe2316b/ScreenShot20190511at30921AM.png)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
 
